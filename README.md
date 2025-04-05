@@ -42,7 +42,7 @@ A base de dados contém:
 
 - Python 3
 - Jupyter Notebook
-- Biblioteca:
+- Bibliotecas:
 - `pandas`
 - `numpy`
 - `scikit-learn`
