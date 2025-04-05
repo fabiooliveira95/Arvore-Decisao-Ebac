@@ -43,19 +43,21 @@ A base de dados contém:
 - Python 3
 - Jupyter Notebook
 - Bibliotecas:
-  - `pandas`
-  - `numpy`
-  - `scikit-learn`
-  - `matplotlib`
-  - `seaborn`
+- `pandas`
+- `numpy`
+- `scikit-learn`
+- `matplotlib`
+- `seaborn`
 
 ---
 
 ## 📁 Estrutura
-
-
-Arvore-Decisao-Ebac/ ├── Arvore_de_decisao1.ipynb ├── Arvores II - Tarefa 2.ipynb ├── Arvores II - Tarefa_3.ipynb └── README.md
-
+```test
+Arvore-Decisao-Ebac/ 
+├── Arvore_de_decisao1.ipynb 
+├── Arvores II - Tarefa 2.ipynb 
+├── Arvores II - Tarefa_3.ipynb └── README.md
+```
 ---
  ## 📈 Resultados Esperados
 
