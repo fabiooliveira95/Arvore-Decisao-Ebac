@@ -42,7 +42,6 @@ A base de dados contém:
 
 - Python 3
 - Jupyter Notebook
-  
 - Biblioteca:
 - `pandas`
 - `numpy`
