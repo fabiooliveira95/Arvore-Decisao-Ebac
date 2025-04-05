@@ -79,5 +79,6 @@ Arvore-Decisao-Ebac/ ├── Arvore_de_decisao1.ipynb ├── Arvores II - T
 
     ## 📜 Licença
 
-    * ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+    ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 
