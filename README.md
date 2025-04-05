@@ -56,29 +56,25 @@ A base de dados contém:
 
 Arvore-Decisao-Ebac/ ├── Arvore_de_decisao1.ipynb ├── Arvores II - Tarefa 2.ipynb ├── Arvores II - Tarefa_3.ipynb └── README.md
 
-    ihame
-    
-    ---
+---
+ ## 📈 Resultados Esperados
 
-    ## 📈 Resultados Esperados
+- Compreensão prática do uso de árvores de decisão.
+- Avaliação de acurácia, precisão, recall e F1-score.
+- Visualização da árvore treinada (quando possível).
 
-    - Compreensão prática do uso de árvores de decisão.
-    - Avaliação de acurácia, precisão, recall e F1-score.
-    - Visualização da árvore treinada (quando possível).
+---
 
-    ---
+## 📬 Contato
 
-    ## 📬 Contato
+* Fábio Oliveira
+* 🔗 [LinkedIn](https://www.linkedin.com/in/fabio-oliveira-araujo-cientista/)
+* 📧 fabiooliveira0067@gmail.com
 
-    * Fábio Oliveira
-    * 🔗 [LinkedIn](https://www.linkedin.com/in/fabio-oliveira-araujo-cientista/)
-    * 📧 fabiooliveira0067@gmail.com
+ ---
 
+## 📜 Licença
 
-    ---
-
-    ## 📜 Licença
-
-    ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 
